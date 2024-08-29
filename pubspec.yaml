@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_downloader: ^1.11.8
+  gal: ^2.3.0
 
 dev_dependencies:
   flutter_test:
